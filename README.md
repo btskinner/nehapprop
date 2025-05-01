@@ -1,4 +1,4 @@
-# Annual appropriations to NEH: 1966-2024
+# NEH appropriations from 1966 to 2024
 
 Figures showing the following funding trends for the National Endowment for the
 Humanities:
@@ -12,6 +12,12 @@ Humanities:
 cd scripts
 Rscript appropriations.R
 ```
+
+## Figure
+
+![](https://raw.githubusercontent.com/btskinner/nehapprop/main/figures/neh_appropriations_nom.png)
+
+![](https://raw.githubusercontent.com/btskinner/nehapprop/main/figures/neh_appropriations_real.png)
 
 ## NOTES
 
